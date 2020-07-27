@@ -4,8 +4,8 @@
 ## 추가 양식
 링크를 추가하고 싶으신 분은 Pull Request를 보내주세요.
 ```
-// example
-| [이름](https://www.주소.com/) |
+example
+| - [이름](https://www.주소.com/) 간단 설명 | 
 ```
 
 
