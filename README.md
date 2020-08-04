@@ -8,7 +8,6 @@ example
 | - [이름](https://www.주소.com/) 간단 설명 | 
 ```
 
-
 ### 이미지 관련
  - [Unsplash](https://unsplash.com/) 무료 이미지
  - [Pixabay](https://pixabay.com/ko/videos/) 무료 동영상
@@ -23,7 +22,11 @@ example
  - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) JSON 정렬 도구
  - [Page Ruler Redux](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) 크기 재기 (css 유용)
  - [Gliffy Diagrams](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad) 다이어그램 만들기(ER다이어그램, 관계데이터모델 등..)
-  
+
+### 공동 작업
+ - [Google 프레젠테이션](https://www.google.com/intl/ko_kr/slides/about//) 공동 작업 가능 프레젠테이션 도구
+ - [Figma](https://www.figma.com/) 디자인 공동 작업 도구
+ 
 ### 개념 정리
  - [ofcourse](https://ofcourse.kr/) Front-end 코스
   
