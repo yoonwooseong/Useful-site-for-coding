@@ -9,6 +9,7 @@ example
 ```
 ### Terminal Theme
  - [TerminalSplash](https://terminalsplash.com/) 터미널 테마
+ - [powerlevel10k](https://github.com/romkatv/powerlevel10k) powerlevel10k (재설정 명령어: p10k configure)
  
 ### 이미지 관련
  - [Unsplash](https://unsplash.com/) 무료 이미지
