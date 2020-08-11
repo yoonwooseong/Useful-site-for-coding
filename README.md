@@ -39,3 +39,6 @@ example
  
 ### 기타 참고 리스트
  - [눈누](https://noonnu.cc/) 무료 폰트
+ 
+### 배움
+ - [nomadcoder](https://nomadcoders.co/) 니꼬쌤 강의들
