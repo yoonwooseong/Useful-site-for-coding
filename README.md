@@ -33,6 +33,7 @@ example
  
 ### 개념 정리
  - [ofcourse](https://ofcourse.kr/) Front-end 코스
+ - [데이터베이스 정규화](https://en.wikipedia.org/wiki/Database_normalization) 출처:wikipedia
   
 ### 웹 코딩 툴
  - [Repl.it](https://repl.it/) 웹 코딩하기
