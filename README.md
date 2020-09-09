@@ -44,3 +44,4 @@ example
  
 ### 배움
  - [nomadcoder](https://nomadcoders.co/) 니꼬쌤 강의들
+ - [Amazon RDS](https://aws.amazon.com/ko/getting-started/hands-on/create-mysql-db/) Amazon RDS - MySQL
