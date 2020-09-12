@@ -45,3 +45,6 @@ example
 ### 배움
  - [nomadcoder](https://nomadcoders.co/) 니꼬쌤 강의들
  - [Amazon RDS](https://aws.amazon.com/ko/getting-started/hands-on/create-mysql-db/) Amazon RDS - MySQL
+ 
+### 정보
+ - [프로그래머스](https://programmers.co.kr/) 각종 정보들
