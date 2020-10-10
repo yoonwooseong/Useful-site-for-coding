@@ -7,6 +7,12 @@
 example
 | - [이름](https://www.주소.com/) 간단 설명 | 
 ```
+
+### 알고리즘 공부
+ - [프로그래머스]()
+ - [해커랭크](https://www.hackerrank.com/dashboard)
+ - []()
+ 
 ### Terminal Theme
  - [TerminalSplash](https://terminalsplash.com/) 터미널 테마
  - [powerlevel10k](https://github.com/romkatv/powerlevel10k) powerlevel10k (재설정 명령어: p10k configure)
