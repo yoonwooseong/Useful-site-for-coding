@@ -1,4 +1,4 @@
-# 코딩할때 참고해본 홈페이지 리스트
+# 코딩할때 참고해본 홈페이지 리스트 (유용한 사이트들)
 >Useful site for coding
 
 ## 추가 양식
@@ -9,9 +9,12 @@ example
 ```
 
 ### 알고리즘 공부
- - [프로그래머스]()
+ - [프로그래머스](https://programmers.co.kr/learn/challenges)
  - [해커랭크](https://www.hackerrank.com/dashboard)
- - []()
+ - Private repository : 확인하고 싶으신 분은 메일을 보내주세요(dntjd851@naver.com)
+ - [코딩으로 수학하기](https://wikidocs.net/21638) 출처:https://wikidocs.net/21638
+ - [gyoogle 알고리즘 부분](https://gyoogle.dev/) 출처:https://gyoogle.dev
+ - [곰가드라이브러리님](https://gomguard.tistory.com/111?category=711753) 출처:https://gomguard.tistory.com/111?category=711753
  
 ### Terminal Theme
  - [TerminalSplash](https://terminalsplash.com/) 터미널 테마
