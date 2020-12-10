@@ -7,7 +7,11 @@
 example
 | - [이름](https://www.주소.com/) 간단 설명 | 
 ```
-
+### 배움
+ - [nomadcoder](https://nomadcoders.co/) 니꼬쌤 강의들
+ - [Amazon RDS](https://aws.amazon.com/ko/getting-started/hands-on/create-mysql-db/) Amazon RDS - MySQL
+ - [w3schools](https://www.w3schools.com/) 강좌들
+ 
 ### 알고리즘 공부
  - [프로그래머스](https://programmers.co.kr/learn/challenges)
  - [해커랭크](https://www.hackerrank.com/dashboard)
@@ -51,10 +55,6 @@ example
  
 ### 기타 참고 리스트
  - [눈누](https://noonnu.cc/) 무료 폰트
- 
-### 배움
- - [nomadcoder](https://nomadcoders.co/) 니꼬쌤 강의들
- - [Amazon RDS](https://aws.amazon.com/ko/getting-started/hands-on/create-mysql-db/) Amazon RDS - MySQL
  
 ### 정보
  - [프로그래머스](https://programmers.co.kr/) 각종 정보들
