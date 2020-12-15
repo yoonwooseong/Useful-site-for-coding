@@ -7,6 +7,22 @@
 example
 | - [이름](https://www.주소.com/) 간단 설명 | 
 ```
+
+### 웹 코딩 툴
+ - [Repl.it](https://repl.it/) 웹 코딩하기
+ - [SourceTree](https://www.sourcetreeapp.com/) git tools
+ - [Postman](https://web.postman.co/home) API tools (JSON)
+
+
+### 플러그인
+ - AnyEdit Tools   스네이크, 카멜 자동완성  
+ - Simple Properties Editor   Properties 유니코드 - 번역 
+ - Darkest Dark Theme  검은색 테마
+
+
+### 라이브러리
+ - [lombok]()
+ - [underscore]()
 ### 배움
  - [nomadcoder](https://nomadcoders.co/) 니꼬쌤 강의들
  - [Amazon RDS](https://aws.amazon.com/ko/getting-started/hands-on/create-mysql-db/) Amazon RDS - MySQL
@@ -50,8 +66,6 @@ example
  - [데이터베이스 정규화](https://en.wikipedia.org/wiki/Database_normalization) 출처:wikipedia
  - [세션 쿠키](https://engkimbs.tistory.com/696) 세션 쿠키 출처:https://engkimbs.tistory.com/696
   
-### 웹 코딩 툴
- - [Repl.it](https://repl.it/) 웹 코딩하기
  
 ### 기타 참고 리스트
  - [눈누](https://noonnu.cc/) 무료 폰트
