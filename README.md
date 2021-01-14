@@ -13,16 +13,15 @@ example
  - [SourceTree](https://www.sourcetreeapp.com/) git tools
  - [Postman](https://web.postman.co/home) API tools (JSON)
 
-
 ### 플러그인
  - AnyEdit Tools   스네이크, 카멜 자동완성  
  - Simple Properties Editor   Properties 유니코드 - 번역 
- - Darkest Dark Theme  검은색 테마
-
+ - Darkest Dark Theme  이클립스 검은색 테마
 
 ### 라이브러리
- - [lombok]()
- - [underscore]()
+ - [lombok](https://projectlombok.org/download) getter, setter 등 중복적인 코드를 줄여주는 라이브러리
+ - [underscore](https://underscorejs.org/) 가볍고 쉽게 array 데이터를 관리 가능 (_.each() 함수)
+ 
 ### 배움
  - [nomadcoder](https://nomadcoders.co/) 니꼬쌤 강의들
  - [Amazon RDS](https://aws.amazon.com/ko/getting-started/hands-on/create-mysql-db/) Amazon RDS - MySQL
@@ -31,10 +30,10 @@ example
 ### 알고리즘 공부
  - [프로그래머스](https://programmers.co.kr/learn/challenges)
  - [해커랭크](https://www.hackerrank.com/dashboard)
- - Private repository : 확인하고 싶으신 분은 메일을 보내주세요(dntjd851@naver.com)
  - [코딩으로 수학하기](https://wikidocs.net/21638) 출처:https://wikidocs.net/21638
  - [gyoogle 알고리즘 부분](https://gyoogle.dev/) 출처:https://gyoogle.dev
  - [곰가드라이브러리님](https://gomguard.tistory.com/111?category=711753) 출처:https://gomguard.tistory.com/111?category=711753
+ - Private repository : 확인하고 싶으신 분은 메일을 보내주세요(dntjd851@naver.com)
  
 ### Terminal Theme
  - [TerminalSplash](https://terminalsplash.com/) 터미널 테마
