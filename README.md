@@ -36,6 +36,9 @@ example
  - [곰가드라이브러리님](https://gomguard.tistory.com/111?category=711753) 출처:https://gomguard.tistory.com/111?category=711753
  - Private repository : 확인하고 싶으신 분은 메일을 보내주세요(dntjd851@naver.com)
  
+### 단축키 정리
+ - [이클립스 단축키](https://github.com/yoonwooseong/Useful-site-for-coding/blob/master/ShortcutEclipse.md) 이클립스 단축키  
+ 
 ### Terminal Theme
  - [TerminalSplash](https://terminalsplash.com/) 터미널 테마
  - [powerlevel10k](https://github.com/romkatv/powerlevel10k) powerlevel10k (재설정 명령어: p10k configure)
@@ -66,7 +69,6 @@ example
  - [데이터베이스 정규화](https://en.wikipedia.org/wiki/Database_normalization) 출처:wikipedia
  - [세션 쿠키](https://engkimbs.tistory.com/696) 세션 쿠키 출처:https://engkimbs.tistory.com/696
   
- 
 ### 기타 참고 리스트
  - [눈누](https://noonnu.cc/) 무료 폰트
  
