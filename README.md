@@ -74,3 +74,6 @@ example
  
 ### 정보
  - [프로그래머스](https://programmers.co.kr/) 각종 정보들
+
+### 흥미로운 글  
+ - [OOP 사용하지마라](https://rinae.dev/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr) 객체지향 코드를 지양하는 글  
