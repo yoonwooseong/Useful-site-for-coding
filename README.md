@@ -35,7 +35,10 @@ example
  - [gyoogle 알고리즘 부분](https://gyoogle.dev/) 출처:https://gyoogle.dev
  - [곰가드라이브러리님](https://gomguard.tistory.com/111?category=711753) 출처:https://gomguard.tistory.com/111?category=711753
  - Private repository : 확인하고 싶으신 분은 메일을 보내주세요(dntjd851@naver.com)
- 
+
+### 블로그  
+ - [기억보단 기록을](https://jojoldu.tistory.com/) 배울 수 있는 블로그
+
 ### 단축키 정리
  - [이클립스 단축키](https://github.com/yoonwooseong/Useful-site-for-coding/blob/master/ShortcutEclipse.md) 이클립스 단축키  
  
